@@ -1,15 +1,14 @@
 # Repo Template
 
-[![](https://raw.githubusercontent.com/juancarlospaco/nodejs/main/nodenim.jpg)](https://juancarlospaco.github.io/nodejs)
 
-![](https://img.shields.io/github/languages/top/juancarlospaco/nodejs?style=for-the-badge)
-![](https://img.shields.io/github/stars/juancarlospaco/nodejs?style=for-the-badge)
-![](https://img.shields.io/github/languages/code-size/juancarlospaco/nodejs?style=for-the-badge)
-![](https://img.shields.io/github/issues-raw/juancarlospaco/nodejs?style=for-the-badge "Bugs")
-![](https://img.shields.io/github/issues-pr-raw/juancarlospaco/nodejs?style=for-the-badge "PRs")
-![](https://img.shields.io/github/last-commit/juancarlospaco/nodejs?style=for-the-badge "Commits")
-![](https://github.com/juancarlospaco/nodejs/workflows/Build/badge.svg?branch=main)
-![](https://bestpractices.coreinfrastructure.org/projects/6585/badge)
+
+![](https://img.shields.io/github/languages/top/juancarlospaco/repo-template?style=for-the-badge)
+![](https://img.shields.io/github/stars/juancarlospaco/repo-template?style=for-the-badge)
+![](https://img.shields.io/github/languages/code-size/juancarlospaco/repo-template?style=for-the-badge)
+![](https://img.shields.io/github/issues-raw/juancarlospaco/repo-template?style=for-the-badge "Bugs")
+![](https://img.shields.io/github/issues-pr-raw/juancarlospaco/repo-template?style=for-the-badge "PRs")
+![](https://img.shields.io/github/last-commit/juancarlospaco/repo-template?style=for-the-badge "Commits")
+![](https://github.com/juancarlospaco/repo-template/workflows/Build/badge.svg?branch=main)
 
 
 # Documentation
@@ -17,7 +16,7 @@
 
 # Install
 
-- `nimble install `
+- `nimble install repo-template`
 
 
 # Design
@@ -137,4 +136,4 @@ WM54DHVZQIQDVTHMPOH6FEZ4U2AU3OBPGAFTHSCYWMFE7ETKCUUOYAW24Q
 
 # Stars
 
-![](https://starchart.cc/juancarlospaco/.svg)
+![](https://starchart.cc/juancarlospaco/repo-template.svg)
