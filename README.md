@@ -44,7 +44,7 @@
 - Each file is self-contained standalone as much as posible.
 - Anything deprecated before year 2022 will not be supported.
 - It does not use anything from Nim standard library, very future-proof,
-  (just imports some types to be compatible with it).
+  (just imports some symbols to be compatible).
 - Receive and offer criticisms constructively.
 - Anyone can have the privacy they desire.
 - Welcome any peer review of our open source code.
