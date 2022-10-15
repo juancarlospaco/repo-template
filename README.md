@@ -1,7 +1,5 @@
 # Repo Template
 
-
-
 ![](https://img.shields.io/github/languages/top/juancarlospaco/repo-template?style=for-the-badge)
 ![](https://img.shields.io/github/stars/juancarlospaco/repo-template?style=for-the-badge)
 ![](https://img.shields.io/github/languages/code-size/juancarlospaco/repo-template?style=for-the-badge)
@@ -22,6 +20,12 @@
 
 # Documentation
 
+#### Hello World
+
+```nim
+# Hello World Example for your code.
+```
+
 
 # Install
 
@@ -34,11 +38,13 @@
 
 # Design
 
+- Package version follows ISO date.
+- Modules are <10000 lines per file.
+- Designed for ARC/ORC deterministic memory nanagement.
+- Each file is self-contained standalone as much as posible.
+- Anything deprecated before year 2022 will not be supported.
 - It does not use anything from Nim standard library, very future-proof,
-  just imports some types to be compatible with it, like `RegExp`, etc.
-- We do not deprecate stuff, even if NodeJS deprecate/remove it, it will keep working for Nim.
-- Stuff deprecated/demoved before year 2020 will not be supported.
-- Experimental or Unstable API on NodeJS are automatically implicitly considered Experimental here.
+  (just imports some types to be compatible with it).
 
 
 # 💰➡️🍕
