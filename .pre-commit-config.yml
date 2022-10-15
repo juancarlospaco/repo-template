@@ -11,14 +11,22 @@
 
 repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.0.1  # v4.0.1  Or SemVer of latest release. Or SHA1.
+    rev: v4.3.0  # v4.3.0  Or SemVer of latest release. Or SHA1.
     hooks:
-    -   id: fix-byte-order-marker    # Check for BOM byte-order marker on files.
-    -   id: check-case-conflict      # Check conflicts for case-insensitive FS.
-    -   id: check-merge-conflict     # Check for committing Unmerged files.
-    -   id: check-symlinks           # Check for SymLinks pointing nowhere.
-    -   id: destroyed-symlinks       # Check for broken Symlinks (if any).
-    -   id: detect-private-key       # Check for committing Private Keys.
-    -   id: forbid-new-submodules    # Prevent addition of new Git SubModules.
-    -   id: check-json               # Check JSON files are valid (if any).
-    -   id: check-executables-have-shebangs  # Check if executable have SheBang.
+    - id: fix-byte-order-marker    # Check for BOM byte-order marker on files.
+    - id: check-case-conflict      # Check conflicts for case-insensitive FS.
+    - id: check-merge-conflict     # Check for committing Unmerged files.
+    - id: check-symlinks           # Check for SymLinks pointing nowhere.
+    - id: destroyed-symlinks       # Check for broken Symlinks (if any).
+    - id: detect-private-key       # Check for committing Private Keys.
+    - id: forbid-new-submodules    # Prevent addition of new Git SubModules.
+    - id: check-json               # Check JSON files are valid (if any).
+    - id: check-executables-have-shebangs  # Check if executable have SheBang.
+    - id: mixed-line-ending        # Check for mixed line endings.
+
+- repo: https://github.com/executablebooks/mdformat
+  rev: 0.7.16
+  hooks:
+  - id: mdformat
+    additional_dependencies:
+    - mdformat-gfm
