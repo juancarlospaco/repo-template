@@ -25,7 +25,11 @@
 
 # Install
 
-- `nimble install repo-template`
+- `nimble install https://github.com/juancarlospaco/repo-template`
+
+#### Uninstall
+
+- `nimble uninstall repo-template`
 
 
 # Design
