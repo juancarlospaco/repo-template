@@ -6,6 +6,7 @@ docs/nimcache/runnableExamples/
 docs/nimcache
 temp
 *.js
+*.ts
 *.txt
 *.log
 *.json
@@ -17,3 +18,4 @@ temp
 *.asm
 *.o
 temp*.*
+*.py[cod]
