@@ -1,14 +1,32 @@
+# Ignore files with no extension
+*
+!*/
+!*.*
+
+
+# JS/TS
+*.js
+*.ts
+
+
+# Python
+*.py[cod]
+
+
+# Misc
+temp*.*
+temp
+*.txt
+*.log
+
+
+# Nim
 nimcache/
 nimblecache/
 htmldocs/
 docs/nimcache/
 docs/nimcache/runnableExamples/
 docs/nimcache
-temp
-*.js
-*.ts
-*.txt
-*.log
 *.json
 *.nims
 *.c
@@ -17,5 +35,4 @@ temp
 *.cpp
 *.asm
 *.o
-temp*.*
-*.py[cod]
+*.exe
