@@ -11,12 +11,14 @@ jobs:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: |
           # Welcome ${{github.actor}}
+          - We try to answer all issues, but issues with donation are faster and also makes the project stronger.
+          - In case your question is already answered, making a donation is the right way to say thanks.
           - **Remember to :star: Star the project on GitHub!.**
           - **Congrats for your first issue!, please provide a minimal code example that reproduces the :bug: Bug!.**
             Reports with full repro code and descriptive detailed information will be fixed faster.
           - Please, keep in mind there is ZERO FUNDING for the project!, we have no sponsors, no company behind, no dev team,
             :heart: Send crypto today to speed up development!:
-          <details> 
+          <details>
           <summary title="Send Bitcoin"><kbd> Bitcoin BTC </kbd></summary>
 
           **BEP20 Binance Smart Chain Network BSC**
@@ -30,10 +32,10 @@ jobs:
           **Lightning Network**
           ```
           juancarlospaco@bitrefill.me
-          ```  
+          ```
           </details>
 
-          <details> 
+          <details>
           <summary title="Send Ethereum and DAI"><kbd> Ethereum ETH </kbd> <kbd> Dai DAI </kbd> <kbd> Uniswap UNI </kbd> <kbd> Axie Infinity AXS </kbd> <kbd> Smooth Love Potion SLP </kbd> </summary>
 
           **BEP20 Binance Smart Chain Network BSC**
@@ -45,7 +47,7 @@ jobs:
           0xb78c4cf63274bb22f83481986157d234105ac17e
           ```
           </details>
-          <details> 
+          <details>
           <summary title="Send Tether"><kbd> Tether USDT </kbd></summary>
 
           **BEP20 Binance Smart Chain Network BSC**
@@ -61,7 +63,7 @@ jobs:
           TWGft53WgWvH2mnqR8ZUXq1GD8M4gZ4Yfu
           ```
           </details>
-          <details> 
+          <details>
           <summary title="Send Solana"><kbd> Solana SOL </kbd></summary>
 
           **BEP20 Binance Smart Chain Network BSC**
@@ -73,7 +75,7 @@ jobs:
           FKaPSd8kTUpH7Q76d77toy1jjPGpZSxR4xbhQHyCMSGq
           ```
           </details>
-          <details> 
+          <details>
           <summary title="Send Cardano"><kbd> Cardano ADA </kbd></summary>
 
           **BEP20 Binance Smart Chain Network BSC**
@@ -85,7 +87,7 @@ jobs:
           DdzFFzCqrht9Y1r4Yx7ouqG9yJNWeXFt69xavLdaeXdu4cQi2yXgNWagzh52o9k9YRh3ussHnBnDrg7v7W2hSXWXfBhbo2ooUKRFMieM
           ```
           </details>
-          <details> 
+          <details>
           <summary title="Send Sandbox"><kbd> Sandbox SAND </kbd> <kbd> Decentraland MANA </kbd></summary>
 
           **ERC20 Ethereum Network**
@@ -93,7 +95,7 @@ jobs:
           0xb78c4cf63274bb22f83481986157d234105ac17e
           ```
           </details>
-          <details> 
+          <details>
           <summary title="Send Algorand"><kbd> Algorand ALGO </kbd></summary>
 
           **ALGO Algorand Network**
@@ -101,7 +103,7 @@ jobs:
           WM54DHVZQIQDVTHMPOH6FEZ4U2AU3OBPGAFTHSCYWMFE7ETKCUUOYAW24Q
           ```
           </details>
-          <details> 
+          <details>
           <summary title="Send via Binance Pay"> Binance </summary>
 
           [https://pay.binance.com/en/checkout/e92e536210fd4f62b426ea7ee65b49c3](https://pay.binance.com/en/checkout/e92e536210fd4f62b426ea7ee65b49c3 "Send via Binance Pay")
@@ -115,7 +117,7 @@ jobs:
             Pull Requests with detailed description of the changes and documentation on the code will be merged faster.
           - Please, keep in mind there is ZERO FUNDING for the project!, we have no sponsors, no company behind, no dev team,
             :heart: Send crypto today to speed up development!:
-          <details> 
+          <details>
           <summary title="Send Bitcoin"><kbd> Bitcoin BTC </kbd></summary>
 
           **BEP20 Binance Smart Chain Network BSC**
@@ -129,10 +131,10 @@ jobs:
           **Lightning Network**
           ```
           juancarlospaco@bitrefill.me
-          ```  
+          ```
           </details>
 
-          <details> 
+          <details>
           <summary title="Send Ethereum and DAI"><kbd> Ethereum ETH </kbd> <kbd> Dai DAI </kbd> <kbd> Uniswap UNI </kbd> <kbd> Axie Infinity AXS </kbd> <kbd> Smooth Love Potion SLP </kbd> </summary>
 
           **BEP20 Binance Smart Chain Network BSC**
@@ -144,7 +146,7 @@ jobs:
           0xb78c4cf63274bb22f83481986157d234105ac17e
           ```
           </details>
-          <details> 
+          <details>
           <summary title="Send Tether"><kbd> Tether USDT </kbd></summary>
 
           **BEP20 Binance Smart Chain Network BSC**
@@ -160,7 +162,7 @@ jobs:
           TWGft53WgWvH2mnqR8ZUXq1GD8M4gZ4Yfu
           ```
           </details>
-          <details> 
+          <details>
           <summary title="Send Solana"><kbd> Solana SOL </kbd></summary>
 
           **BEP20 Binance Smart Chain Network BSC**
@@ -172,7 +174,7 @@ jobs:
           FKaPSd8kTUpH7Q76d77toy1jjPGpZSxR4xbhQHyCMSGq
           ```
           </details>
-          <details> 
+          <details>
           <summary title="Send Cardano"><kbd> Cardano ADA </kbd></summary>
 
           **BEP20 Binance Smart Chain Network BSC**
@@ -184,7 +186,7 @@ jobs:
           DdzFFzCqrht9Y1r4Yx7ouqG9yJNWeXFt69xavLdaeXdu4cQi2yXgNWagzh52o9k9YRh3ussHnBnDrg7v7W2hSXWXfBhbo2ooUKRFMieM
           ```
           </details>
-          <details> 
+          <details>
           <summary title="Send Sandbox"><kbd> Sandbox SAND </kbd> <kbd> Decentraland MANA </kbd></summary>
 
           **ERC20 Ethereum Network**
@@ -192,7 +194,7 @@ jobs:
           0xb78c4cf63274bb22f83481986157d234105ac17e
           ```
           </details>
-          <details> 
+          <details>
           <summary title="Send Algorand"><kbd> Algorand ALGO </kbd></summary>
 
           **ALGO Algorand Network**
@@ -200,7 +202,7 @@ jobs:
           WM54DHVZQIQDVTHMPOH6FEZ4U2AU3OBPGAFTHSCYWMFE7ETKCUUOYAW24Q
           ```
           </details>
-          <details> 
+          <details>
           <summary title="Send via Binance Pay"> Binance </summary>
 
           [https://pay.binance.com/en/checkout/e92e536210fd4f62b426ea7ee65b49c3](https://pay.binance.com/en/checkout/e92e536210fd4f62b426ea7ee65b49c3 "Send via Binance Pay")
