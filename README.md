@@ -8,7 +8,6 @@
 ![](https://img.shields.io/github/issues-raw/juancarlospaco/repo-template?style=for-the-badge "Bugs")
 ![](https://img.shields.io/github/issues-pr-raw/juancarlospaco/repo-template?style=for-the-badge "PRs")
 ![](https://img.shields.io/github/last-commit/juancarlospaco/repo-template?style=for-the-badge "Commits")
-![](https://github.com/juancarlospaco/repo-template/workflows/Build/badge.svg?branch=main)
 ![](https://img.shields.io/github/languages/count/juancarlospaco/repo-template?style=for-the-badge)
 ![](https://img.shields.io/github/directory-file-count/juancarlospaco/repo-template?style=for-the-badge)
 ![](https://img.shields.io/tokei/lines/github/juancarlospaco/repo-template?style=for-the-badge)
@@ -18,6 +17,7 @@
 ![](https://img.shields.io/twitch/status/juancarlospaco?style=for-the-badge)
 ![](https://img.shields.io/github/contributors/juancarlospaco/nodejs?style=for-the-badge)
 ![](https://img.shields.io/discord/371759389889003530?style=for-the-badge)
+![](https://github.com/juancarlospaco/repo-template/workflows/Build/badge.svg?branch=main)
 
 
 # Documentation
