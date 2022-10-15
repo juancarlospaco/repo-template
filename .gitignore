@@ -20,6 +20,15 @@ temp
 *.log
 
 
+# C/CPP
+*.c
+*.h
+*.hpp
+*.cpp
+*.asm
+*.o
+
+
 # Nim
 nimcache/
 nimblecache/
@@ -29,10 +38,4 @@ docs/nimcache/runnableExamples/
 docs/nimcache
 *.json
 *.nims
-*.c
-*.h
-*.hpp
-*.cpp
-*.asm
-*.o
 *.exe
